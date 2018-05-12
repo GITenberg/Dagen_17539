@@ -17,6 +17,8 @@ creator:
     - http://nl.wikipedia.org/wiki/Stijn_Streuvels
     - http://en.wikipedia.org/wiki/Stijn_Streuvels
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17539#Dagen
 gutenberg_issued: '2006-01-23'
 gutenberg_type: Text
 identifiers:
