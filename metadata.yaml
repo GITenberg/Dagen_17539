@@ -1,0 +1,33 @@
+_repo: Dagen_17539
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Streuvels, Stijn
+    aliases:
+    - Streuvels, Franciscus Petrus Marie
+    - Lateur, Frank
+    birthdate: 1871
+    deathdate: 1969
+    gutenberg_agent_id: '2746'
+    url: http://www.gutenberg.org/2009/agents/2746
+    wikipedia:
+    - http://nl.wikipedia.org/wiki/Stijn_Streuvels
+    - http://en.wikipedia.org/wiki/Stijn_Streuvels
+description: ''
+gutenberg_issued: '2006-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17539'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+tableOfContents: De kalfkoe -- Naar buiten -- Sint-Jan -- Sint-Josef -- Vrede -- Verovering.
+title: Dagen
+url: http://www.gutenberg.org/ebooks/17539
